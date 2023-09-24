@@ -1,7 +1,5 @@
 # your code goes here!
 
-from random import shuffle
-
 class Anagram:
 
     def __init__(self, word):
